@@ -1,0 +1,40 @@
+.col-lg-12 {
+	padding: 0;
+}
+.imagenes {
+	width: 50%;
+}
+.navbar-brand {
+	font-size: 30px;
+}
+.nav-link {
+	font-size: 20px;
+}
+.text-center {
+	font-size: 30px;
+}
+.bg-dark h4{
+	color: white;
+	text-shadow: 2px 3px 4px darkgrey;
+}
+footer {
+	height: 100px;
+}
+/* informacion personal */
+.titulo {
+	font-size: 40px;
+	text-align: center;
+}
+div p {
+	font-size: 20px;
+
+}
+.lenguajes {
+	width: 300px;
+}
+div .textobjetivos{
+	color: white;
+}
+.imagenmauricio {
+	width: 400px;
+}
