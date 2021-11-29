@@ -20,6 +20,11 @@
 footer {
 	height: 100px;
 }
+@media (max-width: 768px) { 
+footer {
+	height: 200px;
+}
+}
 /* informacion personal */
 .titulo {
 	font-size: 40px;
