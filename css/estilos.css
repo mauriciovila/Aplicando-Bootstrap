@@ -38,3 +38,24 @@ div .textobjetivos{
 .imagenmauricio {
 	width: 400px;
 }
+/* trabajos realizados */
+.row .col-lg-12 h3 {
+	font-size: 40px;
+}
+.imagestrabajos {
+	width: 400px;
+}
+.trabajospage {
+	overflow-x: hidden;
+}
+.ayudapage {
+	overflow-x: hidden;
+}
+/* contacto */
+.row .textocontacto {
+	font-size: 40px;
+}
+.linkeoredes {
+	font-size: 70px;
+	color: green;
+}
